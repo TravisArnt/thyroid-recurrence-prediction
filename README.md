@@ -44,7 +44,3 @@ Stratified cross-validation will be used because the target classes are imbalanc
 This dataset is relatively small and may not represent all thyroid cancer populations. Potential data leakage, especially from post-treatment variables such as `Response`, will also be investigated.
 
 This project is for educational purposes and should not be interpreted as a clinical decision-support system.
-
-## Project Status
-
-Milestone 1 — Project Proposal
