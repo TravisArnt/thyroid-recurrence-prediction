@@ -1,3 +1,6 @@
+## Repository
+https://github.com/TravisArnt/thyroid-recurrence-prediction
+
 # Thyroid Cancer Recurrence ML
 
 Machine learning project for predicting recurrence of differentiated thyroid cancer using demographic and clinicopathological features.
@@ -8,11 +11,12 @@ Can demographic and clinicopathological features be used to classify whether a p
 
 ## Dataset
 
-**Dataset:** Differentiated Thyroid Cancer Recurrence  
+**Dataset:** Differentiated Thyroid Cancer Recurrence 
+- **Dataset link:** https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence
 **Source:** UCI Machine Learning Repository  
 **Dataset ID:** 915  
 **DOI:** 10.24432/C5632J  
-**Licence:** CC BY 4.0
+**Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 The dataset contains 383 patient records, 16 input features, and one binary target variable: `Recurred`.
 
