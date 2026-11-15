@@ -62,7 +62,7 @@ The dataset is small and may not represent all thyroid cancer populations; no fo
 ## Assistance Declaration
 
 - **Generative AI:** Claude (Anthropic) was used for guidance on the milestone requirements and notebook structure, suggested code for the baseline, MLP pipeline, results table, error analysis and feature importance, drafting interpretation text, and debugging the environment setup. I reviewed, ran and understand all submitted code and results.
-- **External code:** scikit-learn and XGBoost documentation; the MLPClassifier example from the CT4101 lecture slides.
+- **External code:** scikit-learn and XGBoost documentation; the MLPClassifier example from the CT4101 lecture  slides.
 - **Collaboration:** none.
 
 ## Citation

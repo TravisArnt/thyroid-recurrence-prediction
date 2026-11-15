@@ -18,7 +18,7 @@ https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence
 - No missing values; 19 exact duplicate rows (364 records after removal)
 - No patient ID or follow-up time column
 
-## Preparation
+## Preparation 
 
 Done in `notebooks/01_eda.ipynb` (the CSV itself is never changed): column names are cleaned, duplicates are removed before splitting, and `Response` is excluded because it is assessed at follow-up and leaks the outcome.
 
